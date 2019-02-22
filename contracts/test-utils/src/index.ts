@@ -31,6 +31,8 @@ export {
     MarketBuyOrders,
     MarketSellOrders,
     ERC721TokenIdsByOwner,
+    ERC1155FungibleHoldingsByOwner,
+    ERC1155NonFungibleHoldingsByOwner,
     ERC1155HoldingsByOwner,
     OrderStatus,
     AllowanceAmountScenario,
